@@ -2,18 +2,16 @@
 
 ## Overview
 
-Brief description of the project.
-
-## Stack
-
-- TypeScript
-- Node.js (for backend)
-- Express (for backend)
-- PostgreSQL (for backend)
-- React (for frontend)
-- Playwright (for e2e-tests)
+LTI-ATS-JACA is a cutting-edge Applicant Tracking System designed to streamline and optimize the recruitment process for organizations of all sizes. This comprehensive solution combines intuitive user interface with powerful automation features to help HR professionals and hiring managers efficiently manage their talent acquisition pipeline. LTI-ATS-JACA aims to reduce time-to-hire, improve candidate experience, and provide valuable insights to make data-driven hiring decisions.
 
 ## Backend
+
+### Stack
+
+- TypeScript
+- Node.js
+- Express
+- PostgreSQL
 
 ### Dependencies
 
@@ -34,11 +32,22 @@ The project follows a Domain-Driven Design (DDD) approach, particularly in the b
 
 ## Frontend
 
+### Stack
+
+- TypeScript
+- React
+
 ### Dependencies
 For the frontend, key dependencies include:
 - `react` and `react-dom` for building the user interface.
 - `@testing-library/react` for testing React components.
 
+## End To End Testing
+
+### Stack
+
+- TypeScript
+- Playwright
 
 ## Scripts
 
