@@ -6,7 +6,8 @@
   ],
   "plugins": ["@typescript-eslint", "prettier"],
   "rules": {
-    "prettier/prettier": "error"
+    "prettier/prettier": "error",
+    "@typescript-eslint/use-unknown-in-catch-callback-variable": true
   },
   "parser": "@typescript-eslint/parser",
   "parserOptions": {
